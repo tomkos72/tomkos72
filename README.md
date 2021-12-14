@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas
-- 👀 I’m interested in collaborating in C++ projects
+- 👀 I’m interested in collaborating in Java, C++, VBA projects
 - 🌱 I’m currently extending knowledge on Android and Linux
-- 💞️ I’m looking to collaborate on Linux/Ubuntu
+- 💞️ I’m looking to collaborate on Linux/Ubuntu/Windows
 - 📫 How to reach me thomas@thomaskoslowsky.com
 
 <!---
